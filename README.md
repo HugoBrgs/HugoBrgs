@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Hugo Borges!
 
-<!--
-**HugoBrgs/HugoBrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonado por tecnologia, programação e resolução de problemas  
+🚀 Criando meu portfólio desde o início da minha jornada na área tech  
+📚 Em constante aprendizado e evolução
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de me tornar um desenvolvedor completo. Estou construindo este repositório como parte do meu portfólio, documentando minha evolução com projetos, estudos e experiências desde os primeiros passos até minha atuação profissional na área.
+
+Além disso, tenho background em design gráfico, o que me ajuda a ter uma visãoa ampla, criativa e comunicativa no desenvolvimento de soluções.
+
+---
+
+## 🧠 Conhecimentos atuais
+
+- pacote office avançado completo
+- Lógica de programação
+- HTML, CSS, JavaScript
+- Git e GitHub
+- Algoritmos e estrutura de dados
+- Fundamentos de banco de dados
+
+(Em constante atualização)
+
+---
+
+## 📁 Meus projetos
+
+| Projeto | Descrição | Tecnologias | Link |
+|--------|------------|-------------|------|
+| Calculadora JS | Uma calculadora simples em JavaScript | HTML, CSS, JS | [Ver no GitHub](#) |
+| CRUD de usuários | Sistema básico de cadastro | HTML, JS, LocalStorage | [Ver no GitHub](#) |
+| (Mais em breve!) | | | |
+
+---
+
+## 📈 Como acompanhar minha jornada
+
+- 🌐 [Meu portfólio online](https://seu-portfolio-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- 📷 [Instagram (opcional)](https://instagram.com/seu-insta)
+
+---
+
+**Obrigado por visitar meu perfil!**  
+Estou aberto a colaborações, dicas e conexões 🚀  
