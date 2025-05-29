@@ -40,10 +40,9 @@ Além disso, tenho background em design gráfico, o que me ajuda a ter uma visã
 
 ## 📈 Como acompanhar minha jornada
 
-- 🌐 [Meu portfólio online](https://seu-portfolio-link)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- 📷 [Instagram (opcional)](https://instagram.com/seu-insta)
-
+- 🌐 [Meu portfólio online](https://github.com/HugoBrgs)
+- 💼 [LinkedIn](www.linkedin.com/in/hugo-borges-martins-5b2400338)
+- 📷 [Instagram](https://instagram.com/seu-insta)
 ---
 
 **Obrigado por visitar meu perfil!**
