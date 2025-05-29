@@ -46,5 +46,4 @@ Além disso, tenho background em design gráfico, o que me ajuda a ter uma visã
 
 ---
 
-**Obrigado por visitar meu perfil!**  
-Estou aberto a colaborações, dicas e conexões 🚀  
+**Obrigado por visitar meu perfil!**
