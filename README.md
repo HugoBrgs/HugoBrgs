@@ -21,6 +21,7 @@ Além disso, tenho background em design gráfico, o que me ajuda a ter uma visã
 
 ## 🧠 Conhecimentos atuais
 
+- Windows e Linux
 - Pacote Oficce Avançado
 - Ilustrator, Canva, Photoshop, InDesign
 - Lógica de programação
@@ -34,7 +35,10 @@ Além disso, tenho background em design gráfico, o que me ajuda a ter uma visã
 
 ## 📁 Meus projetos
 
-| Projeto | Descrição | Tecnologias | Link |
+- Design: Tabalho de Empreendedorismo para o IFB feito no <a href = "https://www.canva.com/design/DAGcUOQLE1Y/tCTWDq1nhPZJETrAK_kPPg/edit?utm_content=DAGcUOQLE1Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/-Canva-%230077B5?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
+- Design: Tabalho sobre Remedios Naturais para o IFB feito no <a href = "https://www.canva.com/design/DAGeYizAr6o/G_VwS9HOzw7xPBV4AZJyzQ/edit?utm_content=DAGeYizAr6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/-Canva-%230077B5?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
+- Design: Tabalho sobre Linux Kali para o IFB feito no <a href = "https://www.canva.com/design/DAGeTOCXIkU/EO127oF0WnoyWt6BiJNDWw/edit?utm_content=DAGeTOCXIkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/-Canva-%230077B5?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
+- Design: Tabalho sobre a Importância da Caminhada para o IFB feito no <a href = "https://www.canva.com/design/DAGeZYa_DVE/e5EDrkAzxrffftn3-l7FqQ/edit?utm_content=DAGeZYa_DVE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/-Canva-%230077B5?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
 
 ---
 
