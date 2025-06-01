@@ -11,7 +11,7 @@
 
 ## 💡 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de me tornar um desenvolvedor completo. Estou construindo este repositório como parte do meu portfólio, documentando minha evolução com projetos, estudos e experiências desde os primeiros passos até minha atuação profissional na área.
+Sou formado em Design Gráfico desde 2014, atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de me tornar um desenvolvedor completo. Estou construindo este repositório como parte do meu portfólio, documentando minha evolução com projetos, estudos e experiências desde os primeiros passos até minha atuação profissional na área.
 
 Além disso, tenho background em design gráfico, o que me ajuda a ter uma visão criativa e comunicativa no desenvolvimento de soluções.
 
