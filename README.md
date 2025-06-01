@@ -1,10 +1,11 @@
 # Olá! Eu sou Hugo Borges
 
-
+👨🏽‍🎓 Formado em Design Gráfico desde 2014
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por tecnologia, programação e resolução de problemas  
 🚀 Criando meu portfólio desde o início da minha jornada na área tech  
 📚 Em constante aprendizado e evolução
+
 
 ---
 
